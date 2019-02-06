@@ -1,4 +1,4 @@
-# React.js를 본 repository 입니다.
+# React.js를 다뤄본 repository 입니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
